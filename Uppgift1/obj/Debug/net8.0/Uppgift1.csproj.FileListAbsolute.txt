@@ -1,0 +1,15 @@
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.GeneratedMSBuildEditorConfig.editorconfig
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.AssemblyInfoInputs.cache
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.AssemblyInfo.cs
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.csproj.CoreCompileInputs.cache
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.sourcelink.json
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/bin/Debug/net8.0/Uppgift1
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/bin/Debug/net8.0/Uppgift1.deps.json
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/bin/Debug/net8.0/Uppgift1.runtimeconfig.json
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/bin/Debug/net8.0/Uppgift1.dll
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/bin/Debug/net8.0/Uppgift1.pdb
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.dll
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/refint/Uppgift1.dll
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.pdb
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/Uppgift1.genruntimeconfig.cache
+/home/arvidn/Documents/prog2/vecka3/Uppgift1/obj/Debug/net8.0/ref/Uppgift1.dll
