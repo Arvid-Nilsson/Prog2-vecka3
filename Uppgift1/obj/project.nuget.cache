@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiKBU123g9IUa5bJg+KbUZRfdX99Ataorcdd6rHZudxCexYpEBJgOGrthR2PdneAyPFtGgdPQcbiYdRToq1iqQ==",
+  "success": true,
+  "projectFilePath": "/home/arvidn/Documents/prog2/vecka3/Uppgift1/Uppgift1.csproj",
+  "expectedPackageFiles": [
+    "/home/arvidn/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
